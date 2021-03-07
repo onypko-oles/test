@@ -1,0 +1,8 @@
+body {
+  display: grid;
+  padding: 50px;
+  color: white;
+  background: linear-gradient(to bottom, white, black);
+}
+
+@import "./blocks/header.scss";
